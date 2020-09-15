@@ -1,0 +1,19 @@
+h1{
+	text-align: center;
+	font-size: 100px;
+	text-decoration: underline;
+}
+
+#clock{
+	text-align: center;
+	font-size: 300px;
+	color: red;
+	background-color: black;
+	column-span: 100px;
+
+
+}
+
+body{
+	background-color:red;
+}
